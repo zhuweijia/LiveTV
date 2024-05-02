@@ -605,32 +605,20 @@ http://8.137.57.240:81/hy.php?url=660004
 http://w.7080.wang/cs/douyu.php?id=9279865
 #EXTINF:-1 tvg-name="禽兽狙" tvg-logo="https://live.fanmingming.com/tv/禽兽狙.png" group-title="太阳直播",禽兽狙
 http://w.7080.wang/cs/douyu.php?id=5391916
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://w.7080.wang/cs/douyu.php?id=4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://mhq.coms.ee/斗鱼.php?id=4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-https://tv.iill.top/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://159.75.85.63:35455/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://43.138.170.29:35455/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://diyp.112114.xyz/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-https://live.metshop.top/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://1.14.62.198:35455/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-https://apiurl.v1.mk/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院=
 https://www.goodiptv.club/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-https://yang-1989.eu.org/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
-http://jiandjh.51vip.biz:35455/douyu/4246519
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院==
 http://nas.dy091019.love:35455/douyu/4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院=
+http://159.75.85.63:35455/douyu/4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院==
+http://w.7080.wang/cs/douyu.php?id=4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院===
+http://43.138.170.29:35455/douyu/4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院===
+https://live.metshop.top/douyu/4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播",邵氏影院=====
+http://mhq.coms.ee/斗鱼.php?id=4246519
 
 #EXTINF:-1 tvg-name="贝尔求生" tvg-logo="https://live.fanmingming.com/tv/贝尔求生.png" group-title="太阳直播",贝尔求生
 http://w.7080.wang/cs/douyu.php?id=454867
