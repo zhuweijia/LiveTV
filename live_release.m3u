@@ -212,7 +212,11 @@ http://diyp.zxyxndc.top/huya/660006
 #EXTINF:-1 tvg-name="PGS2" tvg-logo="https://live.fanmingming.com/tv/PGS2.png" group-title="太阳直播-allinone",PGS2
 http://diyp.zxyxndc.top/huya/660004
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播-allinone",邵氏影院
-http://mhq.coms.ee/斗鱼.php?id=4246519#http://w.7080.wang/cs/douyu.php?id=4246519#https://url.v1.mk/douyu/4246519
+http://mhq.coms.ee/斗鱼.php?id=4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播-allinone",邵氏影院
+http://w.7080.wang/cs/douyu.php?id=4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="太阳直播-allinone",邵氏影院
+https://url.v1.mk/douyu/4246519
 #EXTINF:-1 tvg-name="港剧直播" tvg-logo="https://live.fanmingming.com/tv/港剧直播.png" group-title="太阳直播-allinone",港剧直播
 http://mhq.coms.ee/斗鱼.php?id=4549169
 #EXTINF:-1 tvg-name="丧尸鬼片恐怖" tvg-logo="https://live.fanmingming.com/tv/丧尸鬼片恐怖.png" group-title="太阳直播-allinone",丧尸鬼片恐怖
