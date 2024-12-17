@@ -189,6 +189,8 @@ http://36.35.16.98:9901/tsfile/live/0001_39.m3u8
 http://36.35.16.98:9901/tsfile/live/0001_37.m3u8
 #EXTINF:-1 tvg-name="九命猫神" tvg-logo="https://live.fanmingming.com/tv/九命猫神.png" group-title="太阳直播-allinone",九命猫神
 http://w.7080.wang/cs/douyu.php?id=7246932
+#EXTINF:-1 tvg-name="九命猫神" tvg-logo="https://live.fanmingming.com/tv/九命猫神.png" group-title="太阳直播-allinone",九命猫神
+http://lxajh.top/tv/douyu.php?id=7246932
 #EXTINF:-1 tvg-name="虎牙主" tvg-logo="https://live.fanmingming.com/tv/虎牙主.png" group-title="太阳直播-allinone",虎牙主
 http://diyp.zxyxndc.top/huya/660000
 #EXTINF:-1 tvg-name="虎牙4K" tvg-logo="https://live.fanmingming.com/tv/虎牙主.png" group-title="太阳直播-allinone",虎牙4K
@@ -227,6 +229,8 @@ http://w.7080.wang/cs/douyu.php?id=96577
 http://w.7080.wang/cs/douyu.php?id=6863367
 #EXTINF:-1 tvg-name="大胡子魏" tvg-logo="https://live.fanmingming.com/tv/大胡子魏.png" group-title="太阳直播-allinone",大胡子魏
 http://w.7080.wang/cs/douyu.php?id=8792763
+#EXTINF:-1 tvg-name="大胡子魏" tvg-logo="https://live.fanmingming.com/tv/大胡子魏.png" group-title="太阳直播-allinone",大胡子魏
+http://lxajh.top/tv/douyu.php?id=8792763
 #EXTINF:-1 tvg-name="军旅动作" tvg-logo="https://live.fanmingming.com/tv/军旅动作.png" group-title="太阳直播-allinone",军旅动作
 http://w.7080.wang/cs/douyu.php?id=431460
 #EXTINF:-1 tvg-name="星爷经典" tvg-logo="https://live.fanmingming.com/tv/星爷经典.png" group-title="太阳直播-allinone",星爷经典
@@ -241,6 +245,8 @@ http://w.7080.wang/cs/douyu.php?id=276200
 http://w.7080.wang/cs/douyu.php?id=310926
 #EXTINF:-1 tvg-name="下午茶时间" tvg-logo="https://live.fanmingming.com/tv/下午茶时间.png" group-title="太阳直播-allinone",下午茶时间
 http://w.7080.wang/cs/douyu.php?id=7246932
+#EXTINF:-1 tvg-name="下午茶时间" tvg-logo="https://live.fanmingming.com/tv/下午茶时间.png" group-title="太阳直播-allinone",下午茶时间
+http://lxajh.top/tv/douyu.php?id=7246932
 #EXTINF:-1 tvg-name="诞愿有你" tvg-logo="https://live.fanmingming.com/tv/诞愿有你.png" group-title="太阳直播-allinone",诞愿有你
 http://w.7080.wang/cs/douyu.php?id=323876
 #EXTINF:-1 tvg-name="贝爷影厅" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅.png" group-title="太阳直播-allinone",贝爷影厅
