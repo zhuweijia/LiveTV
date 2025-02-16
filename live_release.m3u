@@ -13,9 +13,13 @@ https://www.goodiptv.club/douyu/7246932
 http://mhq.coms.ee/斗鱼.php?id=7246932
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙主" group-title="轮播",虎牙主
 http://diyp.zxyxndc.top/huya/660000
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙主" group-title="轮播",虎牙记得
+http://diyp.zxyxndc.top/huya/528222  
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙主" group-title="轮播",虎牙-sask
+http://diyp.zxyxndc.top/huya/579236
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙4K" group-title="轮播",虎牙4K
 http://diyp.zxyxndc.top/huya/18524915
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙4K1" group-title="轮播",虎牙4K1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="虎牙4K1" group-title="轮播",虎牙4K
 http://live.iill.top/huya.php?id=18524915
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="哔哩哔哩4K" group-title="轮播",哔哩哔哩4K
 http://dns.yiandrive.com:15907/bilibili/10
@@ -59,6 +63,10 @@ http://mhq.coms.ee/斗鱼.php?id=6863367
 https://www.goodiptv.club/douyu/6863367
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="大胡子魏" group-title="轮播",大胡子魏
 http://dns.yiandrive.com:15907/douyu/8792763
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="大胡子魏" group-title="轮播",大胡子魏
+https://live.metshop.top/douyu//8792763
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="大胡子魏" group-title="轮播",大胡子魏
+https://www.goodiptv.club/douyu/8792763
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="军旅动作" group-title="轮播",军旅动作
 https://live.metshop.top/douyu/431460
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="军旅动作" group-title="轮播",军旅动作
